@@ -1,0 +1,5 @@
+const CONFIG = {
+    OPENWEATHER_API_KEY: '84abc10c19092be81c85b3e2556fbbb5'
+};
+
+window.CONFIG = CONFIG;
